@@ -1,5 +1,5 @@
 - 👋 Hi, I’m anthony. 
-- 👀 I’m interested in participating in any c++ (game) development.  
+- 👀 I’m interested in participating in any c++ development.  
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any C++ project.
 - 📫 reach me at: antonyrl@hotmail.com
