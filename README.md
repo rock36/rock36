@@ -1,5 +1,5 @@
 - 👋 Hi, I’m anthony. 
-- 🌱 I’m interested in participating in any C++ / Python / AI integration / migration project(s).
+- 🌱 I’m interested in participating in any C++ / Python / AI integration / React/NextJS / C++ to Python migration project(s).
 - 📫 Visit my profile page at https://www.thewebapp.in  email: antonyrl@hotmail.com 
 
 <!---
